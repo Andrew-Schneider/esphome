@@ -9,7 +9,7 @@
 #endif
 
 #include "esphome/core/log.h"
-#include "esphome/core/esphal.h"
+#include "esphome/components/esphal.h"
 
 namespace esphome {
 

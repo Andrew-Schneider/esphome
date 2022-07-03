@@ -8,7 +8,7 @@
 #endif
 
 // avoid esp-idf redefining our macros
-#include "esphome/core/esphal.h"
+#include "esphome/components/esphal.h"
 
 #ifdef ARDUINO_ARCH_ESP32
 #include "esp_err.h"

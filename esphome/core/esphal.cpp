@@ -1,4 +1,4 @@
-#include "esphome/core/esphal.h"
+#include "esphome/components/esphal.h"
 #include "esphome/core/helpers.h"
 #include "esphome/core/defines.h"
 #include "esphome/core/log.h"

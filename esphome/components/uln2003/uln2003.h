@@ -1,7 +1,7 @@
 #pragma once
 
 #include "esphome/core/component.h"
-#include "esphome/core/esphal.h"
+#include "esphome/components/esphal.h"
 #include "esphome/components/stepper/stepper.h"
 
 namespace esphome {
