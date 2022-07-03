@@ -1,7 +1,7 @@
 #pragma once
 
 #include <HardwareSerial.h>
-#include "esphome/components/esphal.h"
+#include "esphal.h"
 #include "esphome/core/component.h"
 
 namespace esphome {
