@@ -1,7 +1,7 @@
 #pragma once
 
 #include "esphome/core/component.h"
-#include "esphome/components/esphal.h"
+#include "esphome/core/esphal.h"
 
 namespace esphome {
 namespace sn74hc595 {

@@ -2,7 +2,7 @@
 
 #include <string>
 
-#include "esphome/components/esphal.h"
+#include "esphome/core/esphal.h"
 #include "esphome/core/defines.h"
 
 namespace esphome {
